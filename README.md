@@ -40,35 +40,35 @@ _Cara kerja program:_
 4. _Untuk setiap kata yang valid, program akan menampilkan jumlah minimum giliran yang diperlukan oleh printer untuk mencetak kata tersebut._
 
 ### Example 1
-**Input:**
-How many words would you like to print? (max. 6 words):
-3
+**Input:**  
+How many words would you like to print? (max. 6 words):  
+3  
 Enter your words here!:
 1. hello
 2. aaabbb
 3. abbbac
 
-**Output:**
+**Output:**  
 Successfully printing! Results:
 1. 4
 2. 2
 3. 3
 
 ### Example 2
-**Input:**
-How many words would you like to print? (max. 6 words):
-2
+**Input:**  
+How many words would you like to print? (max. 6 words):  
+2  
 Enter your words here!:
 1. abaaab
 2. 123%$#
 
-**Output:**
+**Output:**  
 The word you entered has no letters.
 
 ### Example 3
-**Input:**
-How many words would you like to print? (max. 6 words):
+**Input:**  
+How many words would you like to print? (max. 6 words):  
 0
 
-**Output:**
+**Output:**  
 Enter valid amount!
