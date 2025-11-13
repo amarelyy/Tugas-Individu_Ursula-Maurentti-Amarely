@@ -4,7 +4,7 @@
 #include <sstream>
 using namespace std;
 
-// Function to find the least number of times printer needs to print a word
+// Function to find the least number of times the printer needs to print a word
 int strangePrinter(string s) {
     int n = s.size();
 
@@ -13,7 +13,7 @@ int strangePrinter(string s) {
         return 0;
     }
     
-    // Table to store how many turns needed for each word
+    // Table to store how many turns are needed for each word
     vector<vector<int>> dp(n, vector<int>(n, 0));  
     
     // Fill the DP table using bottom-up approach
@@ -34,7 +34,7 @@ int strangePrinter(string s) {
 }
 
 int main() {
-    cout << "How many words do you want to print? (max. 6 words): " << endl;
+    cout << "How many words would you like to print? (max. 6 words): " << endl;
     
     // Get number of words
     int numWords;
@@ -80,4 +80,5 @@ int main() {
     }
     
     return 0;
+
 }
