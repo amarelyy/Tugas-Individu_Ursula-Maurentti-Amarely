@@ -8,8 +8,8 @@ This program is called "Strange Printer", simulates a printer with 2 specific co
 
 ## _**Deskripsi Singkat**_
 _Program ini bernama "Strange Printer", yang mensimulasikan sebuah printer dengan dua syarat utama:_
-_1. Printer hanya dapat mencetak rangkaian karakter yang sama pada setiap giliran._
-_2. Pada setiap giliran, printer dapat mencetak karakter baru yang dimulai dan diakhiri di posisi mana pun, dan akan menimpa karakter yang sudah ada di rentang tersebut._
+1. _Printer hanya dapat mencetak rangkaian karakter yang sama pada setiap giliran._
+2. _Pada setiap giliran, printer dapat mencetak karakter baru yang dimulai dan diakhiri di posisi mana pun, dan akan menimpa karakter yang sudah ada di rentang tersebut._
 
 # Reference
 The original reference can be found throughout this link: https://youtu.be/dBtekOl0ofE?si=50DOY9BXO7NvXjyp
