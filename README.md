@@ -41,7 +41,7 @@ _Cara kerja program:_
 
 ### Example 1
 **Input:**
-How many words do you want to print? (max. 6 words):
+How many words would you like to print? (max. 6 words):
 3
 Enter your words here!:
 1. hello
@@ -56,7 +56,7 @@ Successfully printing! Results:
 
 ### Example 2
 **Input:**
-How many words do you want to print? (max. 6 words):
+How many words would you like to print? (max. 6 words):
 2
 Enter your words here!:
 1. abaaab
@@ -67,7 +67,7 @@ The word you entered has no letters.
 
 ### Example 3
 **Input:**
-How many words do you want to print? (max. 6 words):
+How many words would you like to print? (max. 6 words):
 0
 
 **Output:**
